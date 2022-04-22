@@ -1,1 +1,1 @@
-It is magazine/newspaper WordPress Theme. Developed by Md. Hadid Rahman.
+It is a newspaper/magazine WordPress Theme. Developed by Md. Hadid Rahman.
